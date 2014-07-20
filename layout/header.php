@@ -30,7 +30,7 @@
 	        		<li>
 	        			<h2>Portfolio</h2>
 	        			<ul>
-		        			<li><a href="#">Main</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=main">Main</a></li>
 		        			<li><a href="#">Portrait</a></li>
 		        			<li><a href="#">Fashion/Editorial</a></li>
 		        			<li><a href="#">Film</a></li>
