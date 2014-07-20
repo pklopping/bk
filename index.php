@@ -1,3 +1,4 @@
+<?php include("php/variables.php"); ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -21,33 +22,35 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <div class="nav">
-        	<h1>Bran Klopping</h1>
-        	<ul>
-        		<li>
-        			<h2>Portfolio</h2>
-        			<ul>
-	        			<li>Main</li>
-	        			<li>Portrait</li>
-	        			<li>Fashion/Editorial</li>
-	        			<li>Film</li>
-	        			<li>Personal</li>
-	        		</ul>
-	        	</li>
-	        	<li>
-	        		<h2>About</h2>
-	        		<ul>
-	        			<li>Contact</li>
-	        			<li>Bio</li>
-	        		</ul>
-	        	</li>
-	        	<li>
-	        		<h2>News</h2>
-	        		<ul>
-	        			<li>Blog</li>
-	        		</ul>
-        	</ul>
-        </div>
+        <div class="nav-container">
+	        <div class="nav">
+	        	<h1><a href="<?php echo($SITE_ROOT); ?>">Bran Klopping</a></h1>
+	        	<ul>
+	        		<li>
+	        			<h2>Portfolio</h2>
+	        			<ul>
+		        			<li><a href="#">Main</a></li>
+		        			<li><a href="#">Portrait</a></li>
+		        			<li><a href="#">Fashion/Editorial</a></li>
+		        			<li><a href="#">Film</a></li>
+		        			<li><a href="#">Personal</a></li>
+		        		</ul>
+		        	</li>
+		        	<li>
+		        		<h2>About</h2>
+		        		<ul>
+		        			<li><a href="#">Contact</a></li>
+		        			<li><a href="#">Bio</a></li>
+		        		</ul>
+		        	</li>
+		        	<li>
+		        		<h2>News</h2>
+		        		<ul>
+		        			<li><a href="#">Blog</a></li>
+		        		</ul>
+	        	</ul>
+	        </div>
+		</div>
         <div class="content">
         	<?php include("home.php"); ?>
         </div>

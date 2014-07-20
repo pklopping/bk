@@ -12,35 +12,40 @@ body {
   position: relative; }
   body:last-child {
     margin-right: 0; }
-  body .nav {
-    font-family: "Arial", sans-serif;
-    position: fixed;
-    top: 0;
-    left: 0;
+  body .nav-container {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 23.23176%;
-    /*		@include media($mobile) {
-    			color: blue;
-    		}
-    */ }
-    body .nav:last-child {
+    position: fixed;
+    top: 0;
+    left: 0; }
+    body .nav-container:last-child {
       margin-right: 0; }
-    body .nav h1, body .nav h2 {
-      font-weight: normal;
-      text-transform: uppercase;
-      font-size: 14px;
-      color: #777; }
-    body .nav h2 {
-      font-size: 12px;
-      color: black; }
-    body .nav ul {
-      list-style: none;
-      padding-left: 0; }
-    body .nav li {
-      font-size: 10px;
-      color: #999; }
+    body .nav-container .nav {
+      font-family: "Arial", sans-serif;
+      width: 90%;
+      margin-left: 10%;
+      /*		@include media($mobile) {
+      			color: blue;
+      		}
+      */ }
+      body .nav-container .nav h1, body .nav-container .nav h2 {
+        font-weight: normal;
+        text-transform: uppercase;
+        font-size: 14px;
+        color: #777; }
+      body .nav-container .nav h2 {
+        font-size: 12px;
+        color: black; }
+      body .nav-container .nav ul {
+        list-style: none;
+        padding-left: 0; }
+      body .nav-container .nav li {
+        font-size: 10px; }
+      body .nav-container .nav a, body .nav-container .nav a:hover, body .nav-container .nav a:visited {
+        color: #999;
+        text-decoration: none; }
   body .content {
     float: left;
     display: block;
