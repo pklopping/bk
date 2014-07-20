@@ -1,3 +1,3 @@
 <?php include('layout/header.php'); ?>
-<?php include('home.php'); ?>
+<?php echo include(parseURL()); ?>
 <?php include('layout/footer.php'); ?>
