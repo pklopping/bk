@@ -1,1 +1,1 @@
-<p>HELLOO</p>
+<img src="http://placecage.com/600/800" />
