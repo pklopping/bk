@@ -9,6 +9,7 @@
 			case "portfolio": 
 				$page = "port";
 				break;
+			case "main":
 			default: 
 				$page = "home";
 				break;
