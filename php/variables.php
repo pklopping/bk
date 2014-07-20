@@ -14,6 +14,6 @@
 				break;
 		}
 
-		return $page.".php";
+		return "pages/".$page.".php";
 	}
 ?>
