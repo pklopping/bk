@@ -32,5 +32,7 @@ About
 	* link - instagram
 
 
-
-
+Next 
+	* phone sizing, large sizing
+	* multiple image sizes, direct download
+	* nyan cat
