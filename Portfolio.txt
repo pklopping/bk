@@ -1,0 +1,36 @@
+Portfolio
+* current work for sale
+	* image
+	* title - optional
+	* description - optional
+* previous paintings
+	* image
+	* title - optional
+	* description - optional
+* Performance
+	* vimeo lnk and images
+	* title - optional
+	* description - optional
+* video
+	* vimeo lnk and images
+	* title - optional
+	* description - optional
+
+About
+* bio
+	* block of text
+	* image? 
+		- use grid system, image side by side with text, ensure tha tmobile size rearranges the order (photo first)
+* CV
+	* single text block
+* Press
+	* link
+	* description
+* Contact
+	* link - email
+	* link - vimeo
+	* link - instagram
+
+
+
+
