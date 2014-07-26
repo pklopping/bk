@@ -30,25 +30,21 @@
 	        		<li>
 	        			<h2>Portfolio</h2>
 	        			<ul>
-		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=main">Main</a></li>
-		        			<li><a href="#">Portrait</a></li>
-		        			<li><a href="#">Fashion/Editorial</a></li>
-		        			<li><a href="#">Film</a></li>
-		        			<li><a href="#">Personal</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=main">current work for sale</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=pp">previous paintings</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=pe">performance</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=vi">video</a></li>
 		        		</ul>
 		        	</li>
 		        	<li>
 		        		<h2>About</h2>
 		        		<ul>
-		        			<li><a href="#">Contact</a></li>
-		        			<li><a href="#">Bio</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=bi">bio</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=cv">cv</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=pr">press</a></li>
+		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=co">contact</a></li>
 		        		</ul>
 		        	</li>
-		        	<li>
-		        		<h2>News</h2>
-		        		<ul>
-		        			<li><a href="#">Blog</a></li>
-		        		</ul>
 	        	</ul>
 	        </div>
 		</div>

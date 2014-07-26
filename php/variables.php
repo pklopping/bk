@@ -9,6 +9,27 @@
 			case "portfolio": 
 				$page = "port";
 				break;
+			case "pp":
+				$page = "previous_paintings";
+				break;
+			case "pe":
+				$page = "performance";
+				break;
+			case "vi":
+				$page = "video";
+				break;
+			case "bi":
+				$page = "bio";
+				break;
+			case "cv":
+				$page = "curriculum_vitae";
+				break;
+			case "pr":
+				$page = "press";
+				break;
+			case "co":
+				$page = "contact";
+				break;
 			case "main":
 			default: 
 				$page = "home";
