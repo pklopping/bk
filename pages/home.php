@@ -1,11 +1,26 @@
-<img src="http://placekitten.com/400/800" />
-<img src="http://placebear.com/800/400" />
-<img src="http://placecage.com/800/800" />
 <ul>
 	<li>
+		<iframe src="//player.vimeo.com/video/1053647" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		<img src="http://placekitten.com/400/800" />
 		<h1>Cute kittens are my favorite!</h1>
 		<p>I've been fascinated by kittens since I was young. I always thought that they were really cute and super playful. Sometimes I wish my life were as simple as a kittens. It'd be great to be that young again wouldn't it?</p>
+		<p>
+			<a href="http://placecage.com/1024/768">Nicholas Cage</a> For the curious.
+		</p>
 	</li>
-	<iframe src="//player.vimeo.com/video/1053647" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<li>
+		<img src="http://placekitten.com/400/800" />
+		<h1>Cute kittens are my favorite!</h1>
+	</li>
+	<li>
+		<iframe src="//player.vimeo.com/video/1053647" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>I've been fascinated by kittens since I was young. I always thought that they were really cute and super playful. Sometimes I wish my life were as simple as a kittens. It'd be great to be that young again wouldn't it?</p>
+	</li>
+	<li>
+		<h1>Cute kittens are my favorite!</h1>
+		<p>I've been fascinated by kittens since I was young. I always thought that they were really cute and super playful. Sometimes I wish my life were as simple as a kittens. It'd be great to be that young again wouldn't it?</p>
+	</li>
+	<li>
+		<iframe src="//player.vimeo.com/video/1053647" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	</li>
 </ul>

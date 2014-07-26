@@ -31,6 +31,8 @@ About
 	* link - vimeo
 	* link - instagram
 
+Needs
+	* Write js for telling vimeo videos to resize. 
 
 Next 
 	* phone sizing, large sizing
