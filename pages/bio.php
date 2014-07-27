@@ -1,5 +1,5 @@
 <div class="bio">
-	<img src="http://placekitten.com/400/800" />
+	<img src="<?php echo($SITE_ROOT) ?>/public/images/kitten_1.png" />
 	<p>
 		Sartorial gastropub post-ironic kale chips. Flannel chambray cred ethnic, Banksy forage authentic single-origin coffee vinyl brunch before they sold out dreamcatcher semiotics. 8-bit banjo jean shorts, locavore ugh Williamsburg mlkshk Echo Park umami cardigan. Typewriter Tumblr asymmetrical, Odd Future shabby chic chambray keytar. Williamsburg Helvetica McSweeney's occupy banh mi, whatever semiotics master cleanse crucifix. +1 kitsch farm-to-table, ethical Banksy skateboard post-ironic tote bag Helvetica before they sold out cliche mlkshk Kickstarter. Umami forage narwhal occupy Echo Park.
 		<br /><br />
