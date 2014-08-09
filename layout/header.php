@@ -25,7 +25,7 @@
         <!-- Add your site or application content here -->
         <div class="nav-container">
 	        <div class="nav">
-	        	<h1><a href="<?php echo($SITE_ROOT); ?>">Bryan Klopping</a></h1>
+	        	<h1><a href="<?php echo($SITE_ROOT); ?>?page=home">Bryan Klopping</a></h1>
 	        	<ul>
 	        		<li>
 	        			<h2>Portfolio</h2>
