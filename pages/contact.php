@@ -2,17 +2,17 @@
 	<ul>
 		<li>
 			<p>
-				<a href="http://placecage.com/1024/768">Nicholas Cage</a> Check out my vimeo videos.
+				<a href="http://vimeo.com/user9261385">Bryan Klopping on Vimeo</a> 
 			</p>
 		</li>
 		<li>
 			<p>
-				<a href="http://placecage.com/1024/768">Nicholas Cage</a> Check out my instagram.
+				<a href="http://instagram.com/bryanklopping">View current work in progress on Instagram
 			</p>
 		</li>
 		<li>
 			<p>
-				<a href="http://placecage.com/1024/768">Nicholas Cage</a> E-mail me like the scrub you are.
+				<a href="mailto:bryanklopping@me.com">Contact Bryan Klopping</a> 
 			</p>
 		</li>
 	</ul>
