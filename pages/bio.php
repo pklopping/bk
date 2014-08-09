@@ -11,8 +11,5 @@
 		<br /><br />
 		
 	</p>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-
+	<br><br><br><br><br><br><br><br><br><br>
 </div>

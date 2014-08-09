@@ -7,7 +7,7 @@
 		</li>
 		<li>
 			<p>
-				<a href="http://instagram.com/bryanklopping">View current work in progress on Instagram
+				<a href="http://instagram.com/bryanklopping">View current work in progress on Instagram</a>
 			</p>
 		</li>
 		<li>

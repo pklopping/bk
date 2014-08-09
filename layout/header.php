@@ -30,7 +30,6 @@
 	        		<li>
 	        			<h2>Portfolio</h2>
 	        			<ul>
-
 		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=pp">paintings</a></li>
 		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=pe">performance</a></li>
 		        			<li><a href="<?php echo($SITE_ROOT); ?>?page=vi">video</a></li>

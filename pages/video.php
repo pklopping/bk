@@ -12,8 +12,7 @@
 	<li>
 		<iframe src="//player.vimeo.com/video/32046691" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		<h1>Bryan Klopping, Seek, 2011</h1>
-		<p>This piece was created by manipulating Imogen Heap's "Hide and Seek" music video. The sound was created by using the program "Paulstretch".
- </p>
+		<p>This piece was created by manipulating Imogen Heap's "Hide and Seek" music video. The sound was created by using the program "Paulstretch".</p>
 	</li>
 	
 </ul>
