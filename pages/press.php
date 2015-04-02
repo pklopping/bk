@@ -19,11 +19,11 @@
 			</p>
 		</li>
 		<li>
-				<li>
 			<p>
 				<a href="http://www.thebandbrokeup.com/2010/09/10/luminoso-lashkar-stendhal-syndrome/">Luminoso Lashkar – Stendhal Syndrome</a>
 			</p>
 		</li>
+		<li>
 			<p>
 				<a href="http://www.dailynebraskan.com/arts_and_entertainment/clawfoot-house-showcases-bands-in-a-more-intimate-setting/article_5a5f3dcc-baab-5dbf-a94c-e59de3191a51.html">Clawfoot House showcases bands in a more intimate setting</a>
 			</p>
