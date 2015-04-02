@@ -1,5 +1,13 @@
 <div class="links">
 	<ul>
+
+		<li>
+			<p>
+				<a href="http://nakidmagazine.com/2015/01/27/bryan-klopping-artist-to-watch/">BRYAN KLOPPING - ARTIST TO WATCH (via Nakid Magazine)</a>
+			</p>
+		</li>
+
+
 		<li>
 			<p>
 				<a href="http://admin.collegepublisher.com/preview/mobile/2.3308/2.3917/1.2692453">House venues offer unique musical experience in Lincoln</a>
