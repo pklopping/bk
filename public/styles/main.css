@@ -1,81 +1,103 @@
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 
 body {
   float: left;
   display: block;
-  margin-right: 2.35765%;
+  margin-right: 2.3576515979%;
   width: 100%;
   margin: 0;
-  position: relative; }
-  body:last-child {
-    margin-right: 0; }
-  body .nav-container {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 23.23176%;
-    position: fixed;
-    top: 0;
-    left: 0; }
-    body .nav-container:last-child {
-      margin-right: 0; }
-    body .nav-container .nav {
-      font-family: "Arial", sans-serif;
-      width: 90%;
-      margin-left: 10%;
-      /*		@include media($mobile) {
-      			color: blue;
-      		}
-      */ }
-      body .nav-container .nav h1, body .nav-container .nav h2 {
-        font-weight: normal;
-        text-transform: uppercase;
-        font-size: 14px;
-        color: #777; }
-      body .nav-container .nav h2 {
-        font-size: 12px;
-        color: black; }
-      body .nav-container .nav ul {
-        list-style: none;
-        padding-left: 0; }
-      body .nav-container .nav li {
-        font-size: 10px; }
-  body a, body a:hover, body a:visited {
-    color: #999;
-    text-decoration: none; }
-  body .content {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 74.41059%;
-    margin-left: 25.58941%;
-    margin-right: 0; }
-    body .content:last-child {
-      margin-right: 0; }
-    body .content ul {
-      list-style: none;
-      padding-left: 0; }
-      body .content ul li {
-        margin-bottom: 40px; }
-    body .content img, body .content iframe, body .content h1, body .content p {
-      width: 90%;
-      margin: 5px 5%; }
-    body .content h1, body .content p {
-      font-size: 10px;
-      font-family: "Arial", sans-serif; }
-  body .bio p, body .bio img {
-    width: 40%; }
-  body .bio img {
-    float: right; }
-  body .bio p {
-    float: left; }
-  body .links ul li {
-    margin-bottom: 10px; }
-  body .links p {
-    margin: 0;
-    width: 100%; }
+  position: relative;
+}
+body:last-child {
+  margin-right: 0;
+}
+body .nav-container {
+  float: left;
+  display: block;
+  margin-right: 2.3576515979%;
+  width: 23.2317613015%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+body .nav-container:last-child {
+  margin-right: 0;
+}
+body .nav-container .nav {
+  font-family: "Arial", sans-serif;
+  width: 90%;
+  margin-left: 10%;
+  /*		@include media($mobile) {
+  			color: blue;
+  		}
+  */
+}
+body .nav-container .nav h1, body .nav-container .nav h2 {
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #777;
+}
+body .nav-container .nav h2 {
+  font-size: 12px;
+  color: black;
+}
+body .nav-container .nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+body .nav-container .nav li {
+  font-size: 10px;
+}
+body a, body a:hover, body a:visited {
+  color: #999;
+  text-decoration: none;
+}
+body .content {
+  float: left;
+  display: block;
+  margin-right: 2.3576515979%;
+  width: 74.4105871005%;
+  margin-left: 25.5894128995%;
+  margin-right: 0;
+}
+body .content:last-child {
+  margin-right: 0;
+}
+body .content ul {
+  list-style: none;
+  padding-left: 0;
+}
+body .content ul li {
+  margin-bottom: 40px;
+}
+body .content img, body .content iframe, body .content h1, body .content p {
+  width: 90%;
+  margin: 5px 5%;
+}
+body .content h1, body .content p {
+  font-size: 10px;
+  font-family: "Arial", sans-serif;
+}
+body .bio p, body .bio img {
+  width: 40%;
+}
+body .bio img {
+  float: right;
+}
+body .bio p {
+  float: left;
+}
+body .links ul li {
+  margin-bottom: 10px;
+}
+body .links p {
+  margin: 0;
+  width: 100%;
+}
 
 /*# sourceMappingURL=main.css.map */
